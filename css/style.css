@@ -1,0 +1,19 @@
+#nome-azienda{
+    float: right;
+    margin-right: 88%;
+    font-weight: bold;  
+}
+
+#add-task{
+    background-color: lightskyblue;
+    color: white;
+    padding: 3px;
+    border-radius: 10%;
+}
+
+#add-section{
+    background-color: white;
+    color: lightgrey;
+    padding: 3px;
+    border-radius: 10%;
+}
