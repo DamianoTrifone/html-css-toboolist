@@ -1,3 +1,15 @@
+
+#generale{
+    padding: 5%;
+    background-color: lightgray;
+}
+
+#corpo{
+    padding: 5%;
+    background-color: white;
+    border-radius: 5px;
+}
+
 #nome-azienda{
     float: right;
     margin-right: 88%;
@@ -17,6 +29,8 @@
     padding: 3px;
     border-radius: 10%;
 }
+
+/* colori tag */
 
 .blu{
     background-color: lightskyblue;
